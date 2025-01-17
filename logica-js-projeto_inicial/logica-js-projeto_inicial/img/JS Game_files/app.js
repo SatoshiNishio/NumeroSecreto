@@ -1,3 +1,8 @@
+let mensagemDeBoasVindas = 'Boas vindas ao App'
+alert("WelcomeToThisUselessGame!");
+let numeroSecreto = 25; 
+let prompt(choose your destiny 1-100);
+if(numeroSecreto == chute)
 // let numeroSecreto = parseInt(Math.random() * 11)
 // let tentativas = 1
 // let chute
