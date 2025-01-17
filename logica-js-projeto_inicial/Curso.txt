@@ -1,0 +1,4 @@
+ Programacao
+; = inserido em momento de interpretação
+let = cria uma variável
+
