@@ -1,7 +1,11 @@
 alert("WelcomeToThisUselessGame!");
 let numeroSecreto = 25; 
+console.log(numeroSecreto);
 let chute prompt(choose your destiny 1-100);
-if(numeroSecreto == chute);
+
 // se o chute for igual ao numero secreto;
-else {}
-alert (you lose);
+if(chute == numeroSecreto);{
+    alert(`Congratulations! The number is ${numeroSecreto} , You win!`);
+}else {
+alert (you lose) :("")
+}
