@@ -5,5 +5,3 @@ if(numeroSecreto == chute);
 // se o chute for igual ao numero secreto;
 else {}
 alert (you lose);
-
-
